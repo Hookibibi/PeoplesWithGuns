@@ -1,0 +1,588 @@
+﻿Log file open, 11/25/18 22:10:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: PeopleWithGuns
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.231465
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.090s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epicusername="Hookibibi" -epicuserid=e13323db472b437e907144303bb07345 -epiclocale=fr-FR
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.25-21.10.29:474][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.25-21.10.29:474][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.25-21.10.29:486][  0]LogHAL: Display: Platform has ~ 16 GB [17143238656 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.25-21.10.29:486][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.25-21.10.29:486][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.25-21.10.29:486][  0]LogInit: Computer: DESKTOP-IL37EE6
+[2018.11.25-21.10.29:486][  0]LogInit: User: fox56
+[2018.11.25-21.10.29:486][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.25-21.10.29:486][  0]LogInit: High frequency timer resolution =2.929687 MHz
+[2018.11.25-21.10.29:486][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.11.25-21.10.29:486][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.25-21.10.29:487][  0]LogMemory: Process Physical Memory: 98.98 MB used, 98.98 MB peak
+[2018.11.25-21.10.29:487][  0]LogMemory: Process Virtual Memory: 82.75 MB used, 82.75 MB peak
+[2018.11.25-21.10.29:487][  0]LogMemory: Physical Memory: 6763.55 MB used,  9585.51 MB free, 16349.07 MB total
+[2018.11.25-21.10.29:487][  0]LogMemory: Virtual Memory: 4623.47 MB used,  9585.51 MB free, 134217728.00 MB total
+[2018.11.25-21.10.29:502][  0]LogInit: Using OS detected language (fr-FR).
+[2018.11.25-21.10.29:502][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.11.25-21.10.29:503][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2018.11.25-21.10.29:505][  0]LogStreaming: Display: Took  0.003s to InitEngineTextLocalization.
+[2018.11.25-21.10.29:505][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.25-21.10.29:532][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.25-21.10.29:533][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.25-21.10.29:711][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.25-21.10.29:711][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.25-21.10.29:766][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2018.11.25-21.10.29:766][  0]LogD3D11RHI:       2988/0/8174 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.25-21.10.29:768][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.25-21.10.29:768][  0]LogD3D11RHI:       0/0/8174 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.25-21.10.29:768][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.25-21.10.29:773][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.25-21.10.29:773][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.25-21.10.29:773][  0]LogWindows: EnumDisplayDevices:
+[2018.11.25-21.10.29:773][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2018.11.25-21.10.29:774][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.11.25-21.10.29:774][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.11.25-21.10.29:774][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.11.25-21.10.29:774][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.11.25-21.10.29:774][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2018.11.25-21.10.29:774][  0]LogD3D11RHI:   Driver Version: 416.94 (internal:25.21.14.1694, unified:416.94)
+[2018.11.25-21.10.29:774][  0]LogD3D11RHI:      Driver Date: 11-12-2018
+[2018.11.25-21.10.29:774][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2018.11.25-21.10.29:809][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.25-21.10.29:855][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.25-21.10.29:903][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (../../../../../../Users/fox56/Documents/PeopleWithGuns/Intermediate/Shaders/WorkingDirectory/1344/).
+[2018.11.25-21.10.29:904][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/fox56/AppData/Local/Temp/UnrealShaderWorkingDir/FAAFCD9E4A0DF40A523AA290F199D180/'.
+[2018.11.25-21.10.30:222][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.25-21.10.30:236][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.25-21.10.30:250][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.25-21.10.30:264][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.25-21.10.30:278][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.25-21.10.30:293][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.25-21.10.30:308][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.25-21.10.30:324][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.25-21.10.30:331][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.25-21.10.30:418][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-21.10.30:418][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-21.10.30:418][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-21.10.30:418][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-21.10.30:418][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-21.10.30:418][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-21.10.30:418][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-21.10.30:418][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-21.10.30:418][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-21.10.30:418][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-21.10.30:418][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-21.10.30:418][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-21.10.30:418][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-21.10.30:418][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-21.10.30:419][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-21.10.30:419][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-21.10.30:419][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-21.10.30:419][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-21.10.30:420][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.25-21.10.30:481][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.25-21.10.30:481][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.25-21.10.30:506][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.25-21.10.30:506][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.25-21.10.30:518][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.25-21.10.30:531][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.25-21.10.30:546][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.25-21.10.30:561][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.25-21.10.30:573][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.25-21.10.30:573][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.25-21.10.30:633][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.25-21.10.30:633][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.25-21.10.30:634][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.25-21.10.31:373][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.25-21.10.31:426][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/fox56/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.25-21.10.31:427][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/fox56/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.25-21.10.31:427][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/fox56/Documents/PeopleWithGuns/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.25-21.10.31:427][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.25-21.10.31:427][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/fox56/Documents/PeopleWithGuns/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.25-21.10.31:427][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.25-21.10.31:440][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.25-21.10.31:452][  0]LogDerivedDataCache: Using Local data cache path C:/Users/fox56/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.25-21.10.31:452][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.25-21.10.31:452][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.25-21.10.31:470][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.25-21.10.31:472][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.25-21.10.31:472][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.25-21.10.31:547][  0]LogAssetRegistry: FAssetRegistry took 0.0259 seconds to start up
+[2018.11.25-21.10.31:871][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.25-21.10.31:919][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.25-21.10.31:923][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.25-21.10.31:923][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.25-21.10.31:923][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.25-21.10.31:923][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.25-21.10.32:016][  0]LogNetVersion: PeopleWithGuns 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1271298656)
+[2018.11.25-21.10.32:484][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.089114 seconds
+[2018.11.25-21.10.32:490][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.25-21.10.32:490][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.11.25-21.10.32:491][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.25-21.10.33:322][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.25-21.10.33:336][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.25-21.10.33:476][  0]SourceControl: Source control is disabled
+[2018.11.25-21.10.33:476][  0]SourceControl: Source control is disabled
+[2018.11.25-21.10.33:477][  0]SourceControl: Source control is disabled
+[2018.11.25-21.10.33:478][  0]SourceControl: Source control is disabled
+[2018.11.25-21.10.33:635][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.25-21.10.33:698][  0]LogOcInput: OculusInput pre-init called
+[2018.11.25-21.10.33:758][  0]LogEngine: Initializing Engine...
+[2018.11.25-21.10.33:759][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.25-21.10.33:760][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.25-21.10.33:760][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.25-21.10.33:760][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.25-21.10.33:760][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.25-21.10.33:961][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.25-21.10.33:975][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.25-21.10.34:019][  0]LogInit: XAudio2 using 'Casque pour téléphone (Corsair VOID PRO Surround USB Adapter)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.11.25-21.10.34:152][  0]LogInit: FAudioDevice initialized.
+[2018.11.25-21.10.34:152][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.25-21.10.34:297][  0]LogDerivedDataCache: Saved boot cache 0.14s 71MB C:/Users/fox56/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.25-21.10.34:300][  0]LogInit: Texture streaming: Enabled
+[2018.11.25-21.10.34:318][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.25-21.10.34:331][  0]LogInit: Transaction tracking system initialized
+[2018.11.25-21.10.34:359][  0]BlueprintLog: New page: Editor Load
+[2018.11.25-21.10.34:445][  0]LocalizationService: Localization service is disabled
+[2018.11.25-21.10.34:719][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.25-21.10.34:719][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.25-21.10.34:719][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.25-21.10.34:719][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.25-21.10.34:719][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.25-21.10.34:719][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.25-21.10.34:719][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.25-21.10.34:836][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fox56/Documents/PeopleWithGuns/Content/' took 0.05s
+[2018.11.25-21.10.34:836][  0]SourceControl: Source control is disabled
+[2018.11.25-21.10.34:836][  0]Cmd: MAP LOAD FILE="../../../../../../Users/fox56/Documents/PeopleWithGuns/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.25-21.10.34:836][  0]LightingResults: New page: Lighting Build
+[2018.11.25-21.10.34:839][  0]MapCheck: New page: Map Check
+[2018.11.25-21.10.34:839][  0]LightingResults: New page: Lighting Build
+[2018.11.25-21.10.34:867][  0]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.25-21.10.34:867][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.25-21.10.34:890][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.25-21.10.34:950][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60,338ms to complete.
+[2018.11.25-21.10.34:950][  0]LogFileHelpers: Loading map 'MainMenu' took 0.115
+[2018.11.25-21.10.35:029][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-21.10.35:037][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-21.10.35:045][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-21.10.35:054][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-21.10.35:060][  0]LogCollectionManager: Loaded 0 collections in 0.001700 seconds
+[2018.11.25-21.10.35:101][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fox56/Documents/PeopleWithGuns/Saved/Collections/' took 0.01s
+[2018.11.25-21.10.35:101][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fox56/Documents/PeopleWithGuns/Content/Developers/fox56/Collections/' took 0.01s
+[2018.11.25-21.10.35:101][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fox56/Documents/PeopleWithGuns/Content/Collections/' took 0.01s
+[2018.11.25-21.10.35:101][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.25-21.10.35:111][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2572 classes and 603 folders.
+[2018.11.25-21.10.35:120][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.25-21.10.35:170][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.25-21.10.35:174][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.25-21.10.35:190][  0]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.25-21.10.35:192][  0]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.25-21.10.35:198][  0]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.25-21.10.35:276][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.11.25-21.10.35:367][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.25-21.10.35:380][  0]LogSlate: Window 'Tutorials' being destroyed
+[2018.11.25-21.10.35:408][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.25-21.10.35:409][  0]LogLoad: (Engine Initialization) Total time: 7.56 seconds
+[2018.11.25-21.10.35:409][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.25-21.10.35:448][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.25-21.10.35:498][  0]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.25-21.10.35:616][  4]LogAssetRegistry: Asset discovery search completed in 4.0908 seconds
+[2018.11.25-21.10.35:619][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.25-21.10.35:619][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000069 seconds (updated 0 objects)
+[2018.11.25-21.10.45:758][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-21.10.53:116][879]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.25-21.10.55:988][879]LogTexture: Display: Building textures: T_Belica_UpperBody_N (BC5, 4096X4096)
+[2018.11.25-21.10.55:988][879]LogTexture: Display: Building textures: T_EyeOcclusion2 (G8, 512X512)
+[2018.11.25-21.10.56:002][879]LogTexture: Display: Building textures: T_Belica_m01_Belica_lowerbody_skin01_RGB (AutoDXT, 4096X4096)
+[2018.11.25-21.10.56:003][879]LogMaterial: Display: Missing cached shader map for material M_Eye_Occlusion, compiling. 
+[2018.11.25-21.11.17:378][879]LogShaderCompilers: Display: Shaders left to compile 129
+[2018.11.25-21.11.17:378][879]LogShaderCompilers: Display: Shaders left to compile 119
+[2018.11.25-21.11.17:378][879]LogShaderCompilers: Display: Shaders left to compile 109
+[2018.11.25-21.11.17:378][879]LogTexture: Display: Building textures: T_Belica_UpperBody_Decals_Flatblack (AutoDXT, 4096X4096)
+[2018.11.25-21.11.17:378][879]LogTexture: Display: Building textures: T_Belica_m00_Belica_upperbody_skin00_MASK02 (AutoDXT, 4096X4096)
+[2018.11.25-21.11.17:378][879]LogShaderCompilers: Display: Shaders left to compile 99
+[2018.11.25-21.11.17:378][879]LogTexture: Display: Building textures: T_Belica_m00_Belica_upperbody_skin00_MASK01 (AutoDXT, 4096X4096)
+[2018.11.25-21.11.17:378][879]LogTexture: Display: Building textures: T_Belica_UpperBody_Decals (AutoDXT, 4096X4096)
+[2018.11.25-21.11.17:378][879]LogTexture: Display: Building textures: T_Belica_m00_Belica_upperbody_skin00_MASK03 (AutoDXT, 4096X4096)
+[2018.11.25-21.11.17:378][879]LogTexture: Display: Building textures: T_Belica_m00_Belica_upperbody_skin00_MASK02 (AutoDXT, 4096X4096)
+[2018.11.25-21.11.17:378][879]LogTexture: Display: Building textures: T_Belica_m00_Belica_upperbody_skin00_MASK01 (AutoDXT, 4096X4096)
+[2018.11.25-21.11.17:378][879]LogTexture: Display: Building textures: T_ML_FineLeather01_N (BC5, 2048X2048)
+[2018.11.25-21.11.17:378][879]LogTexture: Display: Building textures: T_Belica_Plastic_04_N (BC5, 2048X2048)
+[2018.11.25-21.11.17:378][879]LogTexture: Display: Building textures: T_Belica_Face_RGB (AutoDXT, 4096X4096)
+[2018.11.25-21.11.18:676][879]LogTexture: Display: Building textures: T_Belica_Face_New_spec (AutoDXT, 4096X4096)
+[2018.11.25-21.11.18:676][879]LogTexture: Display: Building textures: T_ML_FineLeather01 (AutoDXT, 2048X2048)
+[2018.11.25-21.11.36:182][879]LogTexture: Display: Building textures: T_Belica_UpperBody_new_head_N (BC5, 4096X4096)
+[2018.11.25-21.11.36:182][879]LogTexture: Display: Building textures: T_Pore_Specular (AutoDXT, 1024X1024)
+[2018.11.25-21.11.36:182][879]LogTexture: Display: Building textures: T_Pore_Normals2 (BC5, 1024X1024)
+[2018.11.25-21.11.36:182][879]LogTexture: Display: Building textures: T_EyeMidPlaneDisplacement_Example (RGBA16F, 1024X1024)
+[2018.11.25-21.11.36:182][879]LogTexture: Display: Building textures: T_Working_Belica_Face_Diff_Biohazard (AutoDXT, 4096X4096)
+[2018.11.25-21.11.36:803][879]LogTexture: Display: Building textures: T_Rough_Plastic_D (AutoDXT, 2048X2048)
+[2018.11.25-21.11.50:584][879]LogTexture: Display: Building textures: T_ID_Belica_weapon_Decals (AutoDXT, 4096X4096)
+[2018.11.25-21.11.50:584][879]LogTexture: Display: Building textures: T_Belica_m03_Belica_guns_skin03_RGB (AutoDXT, 4096X4096)
+[2018.11.25-21.11.50:972][879]LogTexture: Display: Building textures: T_Rough_Plastic_N (BC5, 2048X2048)
+[2018.11.25-21.11.53:032][879]LogTexture: Display: Building textures: T_Rubber_LowContrast (AutoDXT, 2048X2048)
+[2018.11.25-21.12.10:290][879]LogTexture: Display: Building textures: T_Belica_m03_Belica_guns_skin03_N (BC5, 4096X4096)
+[2018.11.25-21.12.10:290][879]LogTexture: Display: Building textures: T_Belica_m03_Belica_guns_skin03_MASK02 (AutoDXT, 4096X4096)
+[2018.11.25-21.12.10:290][879]LogTexture: Display: Building textures: T_Belica_m03_Belica_guns_skin03_MASK01 (AutoDXT, 4096X4096)
+[2018.11.25-21.12.10:290][879]LogTexture: Display: Building textures: T_Rubber_2_N (BC5, 2048X2048)
+[2018.11.25-21.12.10:290][879]LogTexture: Display: Building textures: T_Belica_upperbody_skin00_RGB (AutoDXT, 4096X4096)
+[2018.11.25-21.12.10:290][879]LogTexture: Display: Building textures: T_Belica_m01_Belica_lowerbody_skin01_N (BC5, 4096X4096)
+[2018.11.25-21.12.10:290][879]LogTexture: Display: Building textures: T_Belica_m01_Belica_lowerbody_skin01_MASK03 (AutoDXT, 4096X4096)
+[2018.11.25-21.12.10:290][879]LogTexture: Display: Building textures: T_Belica_m01_Belica_lowerbody_skin01_MASK02 (AutoDXT, 4096X4096)
+[2018.11.25-21.12.10:530][879]LogTexture: Display: Building textures: T_Belica_Eye_D (AutoDXT, 2048X2048)
+[2018.11.25-21.12.11:961][879]LogTexture: Display: Building textures: T_Belica_m01_Belica_lowerbody_skin01_MASK01 (AutoDXT, 4096X4096)
+[2018.11.25-21.12.13:835][879]LogTexture: Display: Building textures: T_Belica_upperbody_skin00_N (BC5, 4096X4096)
+[2018.11.25-21.12.20:065][879]LogTexture: Display: Building textures: T_BelicaScreen (AutoDXT, 1024X1024)
+[2018.11.25-21.12.20:065][879]LogTexture: Display: Building textures: T_Belica_LowerBody_Decals (AutoDXT, 4096X4096)
+[2018.11.25-21.12.20:065][879]LogTexture: Display: Building textures: T_Lame_N (BC5, 1024X1024)
+[2018.11.25-21.12.20:065][879]LogTexture: Display: Building textures: T_Belica_m03_Belica_guns_Biohazard_MASK (AutoDXT, 4096X4096)
+[2018.11.25-21.12.26:695][879]LogTexture: Display: Building textures: T_Belica_m01_Belica_lowerbody_skin01_MASK03 (AutoDXT, 4096X4096)
+[2018.11.25-21.12.26:695][879]LogMaterial: Display: Missing cached shader map for material M_Belica_UpperBody, compiling. 
+[2018.11.25-21.12.27:214][879]LogTexture: Display: Building textures: T_Belica_m01_Belica_lowerbody_skin01_MASK02 (AutoDXT, 4096X4096)
+[2018.11.25-21.12.29:797][879]LogTexture: Display: Building textures: T_Belica_m01_Belica_lowerbody_skin01_MASK01 (AutoDXT, 4096X4096)
+[2018.11.25-21.12.29:797][879]LogTexture: Display: Building textures: T_Belica_Face_D (AutoDXT, 4096X4096)
+[2018.11.25-21.13.35:318][879]LogTexture: Display: Building textures: T_EyeIrisBaseColor_Example_7 (AutoDXT, 512X512)
+[2018.11.25-21.13.35:318][879]LogTexture: Display: Building textures: T_Swirly_Noise (AutoDXT, 1024X1024)
+[2018.11.25-21.13.35:318][879]LogTexture: Display: Building textures: T_DecalMask_Radial03 (G8, 512X512)
+[2018.11.25-21.13.35:318][879]LogTexture: Display: Building textures: T_Sphere_EYE_NORMALS (BC5, 1024X1024)
+[2018.11.25-21.13.35:318][879]LogTexture: Display: Building textures: T_EpicQuadPanorama_CC (RGBA16F, 7372X3686)
+[2018.11.25-21.13.35:318][879]LogTexture: Display: Building textures: T_EyeScleraBaseColor_Example_2 (AutoDXT, 2048X2048)
+[2018.11.25-21.13.35:318][879]LogTexture: Display: Building textures: T_EyeIrisBaseColor_Example_2 (AutoDXT, 512X512)
+[2018.11.25-21.13.35:318][879]LogTexture: Display: Building textures: T_Eye_Wet_Normal (BC5, 1024X1024)
+[2018.11.25-21.13.35:318][879]LogTexture: Display: Building textures: T_EYE_NORMALS (BC5, 512X512)
+[2018.11.25-21.13.35:318][879]LogTexture: Display: Building textures: T_Belica_Corona_D (AutoDXT, 2048X2048)
+[2018.11.25-21.13.35:318][879]LogTexture: Display: Building textures: T_Hair_ID_01 (G8, 4096X4096)
+[2018.11.25-21.13.35:318][879]LogTexture: Display: Building textures: T_Hair_grad_01 (G8, 4096X4096)
+[2018.11.25-21.13.35:318][879]LogTexture: Display: Building textures: T_Hair_depth_01 (G8, 4096X4096)
+[2018.11.25-21.13.35:318][879]LogTexture: Display: Building textures: T_Hair_D_01 (AutoDXT, 4096X4096)
+[2018.11.25-21.13.35:318][879]LogTexture: Display: Building textures: T_Hair_Alpha_01 (G8, 4096X4096)
+[2018.11.25-21.13.35:318][879]LogTexture: Display: Building textures: T_SparrowHair_Flow (BGRA8, 1024X1024)
+[2018.11.25-21.13.35:318][879]LogTexture: Display: Building textures: T_HairClump02_Roots (G8, 2048X2048)
+[2018.11.25-21.13.35:318][879]LogTexture: Display: Building textures: T_HairClump02_ID (G8, 2048X2048)
+[2018.11.25-21.13.35:318][879]LogTexture: Display: Building textures: T_HairClump02_DyeMask (AutoDXT, 2048X2048)
+[2018.11.25-21.13.35:318][879]LogTexture: Display: Building textures: T_HairClump02_Depth (G8, 2048X2048)
+[2018.11.25-21.13.35:318][879]LogTexture: Display: Building textures: T_HairClump02_Alpha (G8, 2048X2048)
+[2018.11.25-21.13.35:318][879]LogTexture: Display: Building textures: T_gradient_stasis (AutoDXT, 256X256)
+[2018.11.25-21.13.35:318][879]LogTexture: Display: Building textures: T_Caustics_2 (DXT1, 512X512)
+[2018.11.25-21.13.35:319][879]LogTexture: Display: Building textures: T_TeethAndTongue_N (BC5, 1024X1024)
+[2018.11.25-21.13.35:319][879]LogTexture: Display: Building textures: T_TeethAndTongue_D (AutoDXT, 1024X1024)
+[2018.11.25-21.13.35:319][879]LogTexture: Display: Building textures: T_Master_Mouth_1_RGB (AutoDXT, 2048X2048)
+[2018.11.25-21.13.35:319][879]LogTexture: Display: Building textures: T_Master_Mouth_1_N (BC5, 2048X2048)
+[2018.11.25-21.13.35:319][879]LogTexture: Display: Building textures: T_Master_Mouth_1_COLOR (AutoDXT, 2048X2048)
+[2018.11.25-21.13.35:319][879]LogTexture: Display: Building textures: T_Universal_Eyelashes_D (AutoDXT, 2048X2048)
+[2018.11.25-21.13.35:319][879]LogTexture: Display: Building textures: T_spiritplane_arcs (AutoDXT, 2048X2048)
+[2018.11.25-21.13.35:319][879]LogTexture: Display: Building textures: T_ShieldImpact_HexReaction_Hexes (AutoDXT, 1024X1024)
+[2018.11.25-21.13.35:319][879]LogTexture: Display: Building textures: T_GradientLaserSoft_M (AutoDXT, 1024X32)
+[2018.11.25-21.13.35:319][879]LogTexture: Display: Building textures: T_Belica_ArmHolo (AutoDXT, 1024X2048)
+[2018.11.25-21.13.35:319][879]LogTexture: Display: Building textures: T_AtmosphericCloudNoise04 (DXT1, 2048X2048)
+[2018.11.25-21.13.35:319][879]LogTexture: Display: Building textures: T_Belica_Eye_Cateract (AutoDXT, 512X512)
+[2018.11.25-21.13.35:319][879]LogTexture: Display: Building textures: T_Belica_Upperbody_BiohazardMask (AutoDXT, 4096X4096)
+[2018.11.25-21.13.35:319][879]LogTexture: Display: Building textures: T_ML_SmoothTech_01_D (AutoDXT, 512X512)
+[2018.11.25-21.13.35:319][879]LogTexture: Display: Building textures: T_ML_Gold_Metal01 (AutoDXT, 2048X2048)
+[2018.11.25-21.13.35:319][879]LogTexture: Display: Building textures: T_Belica_UE4_Demo_Eye_Iris (AutoDXT, 512X512)
+[2018.11.25-21.13.35:319][879]LogTexture: Display: Building textures: T_EyeScleraBaseColor_Example_1B (AutoDXT, 2048X2048)
+[2018.11.25-21.13.35:319][879]LogShaderCompilers: Display: Shaders left to compile 302
+[2018.11.25-21.13.35:319][879]LogTexture: Display: Building textures: T_Belica_Lowerbody_BiohazardMask (AutoDXT, 4096X4096)
+[2018.11.25-21.13.35:319][879]LogTexture: Display: Building textures: T_UnpleasentGrime_D (AutoDXT, 2048X2048)
+[2018.11.25-21.13.35:319][879]LogTexture: Display: Building textures: T_Snow_Crystals_MASK (AutoDXT, 2048X2048)
+[2018.11.25-21.13.35:319][879]LogTexture: Display: Building textures: T_LinearUVs (AutoDXT, 512X512)
+[2018.11.25-21.13.35:319][879]LogTexture: Display: Building textures: T_Belica_Hair_D (AutoDXT, 2048X2048)
+[2018.11.25-21.13.35:319][879]LogTexture: Display: Building textures: T_ZombieSkin_N2 (BC5, 4096X4096)
+[2018.11.25-21.13.35:320][879]LogTexture: Display: Building textures: T_ZombieSkin_N (BC5, 4096X4096)
+[2018.11.25-21.13.35:320][879]LogTexture: Display: Building textures: T_ZombieSkin_MASK (AutoDXT, 4096X4096)
+[2018.11.25-21.13.35:330][879]LogMaterial: Display: Missing cached shader map for material M_Belica_UpperBody_Biohazard, compiling. 
+[2018.11.25-21.13.35:720][879]LogTexture: Display: Building textures: T_ZombieSkin_Diff (AutoDXT, 4096X4096)
+[2018.11.25-21.13.35:864][879]LogTexture: Display: Building textures: T_Lame_D (AutoDXT, 1024X1024)
+[2018.11.25-21.13.38:192][879]LogMaterial: Display: Missing cached shader map for material M_Belica_ArmComputer, compiling. 
+[2018.11.25-21.13.38:341][879]LogMaterial: Display: Missing cached shader map for material M_Belica_New_Head, compiling. 
+[2018.11.25-21.13.38:474][879]LogMaterial: Display: Missing cached shader map for material M_Belica_Guns, compiling. 
+[2018.11.25-21.13.38:613][879]LogMaterial: Display: Missing cached shader map for material M_Belica_Head_Biohazard, compiling. 
+[2018.11.25-21.13.38:784][879]LogMaterial: Display: Missing cached shader map for material M_Belica_Guns_Biohazard, compiling. 
+[2018.11.25-21.13.38:927][879]LogMaterial: Display: Missing cached shader map for material M_Belica_ArmComputer_Biohazard, compiling. 
+[2018.11.25-21.13.39:055][879]LogSkeletalMesh: Building Skeletal Mesh Belica_Biohazard...
+[2018.11.25-21.13.39:435][879]LogSkeletalMesh: Built Skeletal Mesh [0.38s] /Game/ParagonLtBelica/Characters/Heroes/Belica/Skins/Biohazard/Meshes/Belica_Biohazard.Belica_Biohazard
+[2018.11.25-21.13.39:527][879]LogMaterial: Display: Missing cached shader map for material M_TearLine, compiling. 
+[2018.11.25-21.13.39:873][879]LogMaterial: Display: Missing cached shader map for material M_EyeRefractive, compiling. 
+[2018.11.25-21.13.40:027][879]LogMaterial: Display: Missing cached shader map for material M_HairSheet_Master2, compiling. 
+[2018.11.25-21.13.40:206][879]LogMaterial: Display: Missing cached shader map for material M_HairSheet_Master2, compiling. 
+[2018.11.25-21.13.40:380][879]LogMaterial: Display: Missing cached shader map for material M_Mouth_Master, compiling. 
+[2018.11.25-21.13.40:583][879]LogMaterial: Display: Missing cached shader map for material M_EyelashMaster, compiling. 
+[2018.11.25-21.13.40:751][879]LogMaterial: Display: Missing cached shader map for material M_TacArmHoloMesh, compiling. 
+[2018.11.25-21.13.40:798][879]LogMaterial: Display: Missing cached shader map for material M_EyeRefractive, compiling. 
+[2018.11.25-21.13.41:293][879]LogTexture: Display: Building textures: T_Rubber_2 (AutoDXT, 2048X2048)
+[2018.11.25-21.13.53:964][879]LogTexture: Display: Building textures: T_Belica10HeavyArmorLowerbody_N (BC5, 4096X4096)
+[2018.11.25-21.14.00:192][879]LogTexture: Display: Building textures: T_Primer_Black_Metal (AutoDXT, 2048X2048)
+[2018.11.25-21.14.10:942][879]LogTexture: Display: Building textures: T_Snow_Crystals_N (BC5, 2048X2048)
+[2018.11.25-21.14.10:942][879]LogTexture: Display: Building textures: T_Belica_Machine_Base_RGB (AutoDXT, 4096X4096)
+[2018.11.25-21.14.10:942][879]LogTexture: Display: Building textures: T_RoughMetal01_N2 (BC5, 2048X2048)
+[2018.11.25-21.14.10:942][879]LogTexture: Display: Building textures: T_RoughMetal01_N (BC5, 2048X2048)
+[2018.11.25-21.14.10:942][879]LogTexture: Display: Building textures: T_Rust01_N (BC5, 2048X2048)
+[2018.11.25-21.14.10:942][879]LogTexture: Display: Building textures: T_IceZombieEYe (AutoDXT, 512X512)
+[2018.11.25-21.14.10:942][879]LogTexture: Display: Building textures: T_ARMS_MASK01 (AutoDXT, 4096X4096)
+[2018.11.25-21.14.10:942][879]LogTexture: Display: Building textures: T_Gray_Flat_Black (AutoDXT, 2048X2048)
+[2018.11.25-21.14.11:042][879]LogTexture: Display: Building textures: T_Lame_D (AutoDXT, 1024X1024)
+[2018.11.25-21.14.11:832][879]LogTexture: Display: Building textures: T_ARMS_MASK02 (AutoDXT, 4096X4096)
+[2018.11.25-21.14.15:407][879]LogShaderCompilers: Display: Shaders left to compile 3757
+[2018.11.25-21.14.15:408][879]LogTexture: Display: Building textures: T_UPPERBODY_MASK02 (AutoDXT, 4096X4096)
+[2018.11.25-21.14.15:408][879]LogTexture: Display: Building textures: T_ARMS_RGBA (AutoDXT, 4096X4096)
+[2018.11.25-21.14.36:433][879]LogTexture: Display: Building textures: T_UPPERBODY_MASK01 (AutoDXT, 4096X4096)
+[2018.11.25-21.14.36:433][879]LogTexture: Display: Building textures: T_LOWERBODY_RGBA (AutoDXT, 4096X4096)
+[2018.11.25-21.14.36:433][879]LogTexture: Display: Building textures: T_LOWERBODY_MASK02 (AutoDXT, 4096X4096)
+[2018.11.25-21.14.36:433][879]LogTexture: Display: Building textures: T_LOWERBODY_MASK01 (AutoDXT, 4096X4096)
+[2018.11.25-21.14.36:433][879]LogTexture: Display: Building textures: T_UPPERBODY_RGBA (AutoDXT, 4096X4096)
+[2018.11.25-21.14.36:433][879]LogTexture: Display: Building textures: T_HeavyArmorUpperbody_N (BC5, 4096X4096)
+[2018.11.25-21.14.36:447][879]LogMaterial: Display: Missing cached shader map for material M_Belica_HeavyArmor_Arms, compiling. 
+[2018.11.25-21.14.36:803][879]LogSkeletalMesh: Building Skeletal Mesh Belica_HeavyArmor...
+[2018.11.25-21.14.37:210][879]LogTexture: Display: Building textures: T_FACEMASK_MASK01 (AutoDXT, 4096X4096)
+[2018.11.25-21.14.37:210][879]LogSkeletalMesh: Built Skeletal Mesh [0.41s] /Game/ParagonLtBelica/Characters/Heroes/Belica/Skins/HeavyArmor/Meshes/Belica_HeavyArmor.Belica_HeavyArmor
+[2018.11.25-21.14.38:199][879]LogTexture: Display: Building textures: T_RoughMetal01 (AutoDXT, 2048X2048)
+[2018.11.25-21.14.56:463][879]LogTexture: Display: Building textures: T_Roots (G8, 2048X2048)
+[2018.11.25-21.14.56:463][879]LogTexture: Display: Building textures: T_ID (G8, 2048X2048)
+[2018.11.25-21.14.56:463][879]LogTexture: Display: Building textures: T_Depth (G8, 2048X2048)
+[2018.11.25-21.14.56:463][879]LogTexture: Display: Building textures: T_Alfa (G8, 2048X2048)
+[2018.11.25-21.14.56:463][879]LogTexture: Display: Building textures: T_WitchHat_MASK (AutoDXT, 2048X2048)
+[2018.11.25-21.14.56:463][879]LogTexture: Display: Building textures: T_Belica_SpiderWitch_Hat_normals (BC5, 4096X4096)
+[2018.11.25-21.14.56:463][879]LogTexture: Display: Building textures: T_Dark_Leather_N (BC5, 2048X2048)
+[2018.11.25-21.14.56:463][879]LogTexture: Display: Building textures: T_silkroughness (AutoDXT, 512X512)
+[2018.11.25-21.14.56:463][879]LogTexture: Display: Building textures: T_GoldFabric01_N (BC5, 2048X2048)
+[2018.11.25-21.14.56:463][879]LogTexture: Display: Building textures: T_Belica_m00_Belica_upperbody_skin00_MASK03 (AutoDXT, 4096X4096)
+[2018.11.25-21.14.56:463][879]LogTexture: Display: Building textures: T_Belica_UpperBody_N4 (BC5, 4096X4096)
+[2018.11.25-21.14.56:463][879]LogTexture: Display: Building textures: T_Belica_Face_SpiderWitch (AutoDXT, 4096X4096)
+[2018.11.25-21.14.56:463][879]LogTexture: Display: Building textures: T_SpiderwebPattern_NRM (BC5, 2048X2048)
+[2018.11.25-21.14.56:463][879]LogTexture: Display: Building textures: T_SpiderwebPattern_COLOR (AutoDXT, 2048X2048)
+[2018.11.25-21.14.56:463][879]LogTexture: Display: Building textures: T_Diffuse (AutoDXT, 4096X4096)
+[2018.11.25-21.14.56:463][879]LogTexture: Display: Building textures: T_EyeIrisBaseColor_Example_6 (AutoDXT, 512X512)
+[2018.11.25-21.14.56:463][879]LogTexture: Display: Building textures: T_EyeIrisBaseColor_Example_4 (AutoDXT, 512X512)
+[2018.11.25-21.14.56:463][879]LogTexture: Display: Building textures: T_Belica_UpperBody_PolarStrikeDecals (AutoDXT, 4096X4096)
+[2018.11.25-21.14.57:384][879]LogTexture: Display: Building textures: T_Rust01 (AutoDXT, 2048X2048)
+[2018.11.25-21.15.12:401][879]LogTexture: Display: Building textures: T_Belica_m00_Belica_upperbody_skin002_MASK03 (AutoDXT, 4096X4096)
+[2018.11.25-21.15.12:401][879]LogTexture: Display: Building textures: T_Belica_m00_Belica_upperbody_skin002_MASK01 (AutoDXT, 4096X4096)
+[2018.11.25-21.15.12:401][879]LogTexture: Display: Building textures: T_Working_Belica_Face_Diff_PolarStrike2 (AutoDXT, 4096X4096)
+[2018.11.25-21.15.12:401][879]LogTexture: Display: Building textures: T_Belica_m01_Belica_lowerbody_skin01_MASK03 (AutoDXT, 4096X4096)
+[2018.11.25-21.15.12:401][879]LogTexture: Display: Building textures: T_Belica_m01_Belica_lowerbody_skin01_MASK02 (AutoDXT, 4096X4096)
+[2018.11.25-21.15.12:530][879]LogMaterial: Display: Missing cached shader map for material M_Belica_UpperBody_Everfrost, compiling. 
+[2018.11.25-21.15.13:042][879]LogMaterial: Display: Missing cached shader map for material M_Belica_New_Head_Everfrost, compiling. 
+[2018.11.25-21.15.13:479][879]LogMaterial: Display: Missing cached shader map for material M_Belica_Guns_Everfrost, compiling. 
+[2018.11.25-21.15.13:880][879]LogTexture: Display: Building textures: T_Belica_m01_Belica_lowerbody_skin01_MASK01 (AutoDXT, 4096X4096)
+[2018.11.25-21.15.13:903][879]LogSkeletalMesh: Building Skeletal Mesh Belica_Everfrost...
+[2018.11.25-21.15.14:712][879]LogSkeletalMesh: Built Skeletal Mesh [0.81s] /Game/ParagonLtBelica/Characters/Heroes/Belica/Skins/Everfrost/Meshes/Belica_Everfrost.Belica_Everfrost
+[2018.11.25-21.15.14:744][879]LogMaterial: Display: Missing cached shader map for material M_HairSheet_Master2, compiling. 
+[2018.11.25-21.15.15:227][879]LogMaterial: Display: Missing cached shader map for material M_EyeRefractive, compiling. 
+[2018.11.25-21.15.15:561][879]LogMaterial: Display: Missing cached shader map for material M_HairSheet_Master2, compiling. 
+[2018.11.25-21.15.16:434][879]LogTexture: Display: Building textures: T_RockFlakes (AutoDXT, 2048X2048)
+[2018.11.25-21.15.17:548][879]LogTexture: Display: Building textures: T_Belica_LowerBody_PolarStrikeDecals (AutoDXT, 4096X4096)
+[2018.11.25-21.15.18:330][879]LogTexture: Display: Building textures: T_Carbon_Color (AutoDXT, 1024X1024)
+[2018.11.25-21.15.18:461][879]LogTexture: Display: Building textures: T_CF_Nor (BC5, 1024X1024)
+[2018.11.25-21.15.19:560][879]LogTexture: Display: Building textures: T_Cream_Painted_Metal_N (BC5, 2048X2048)
+[2018.11.25-21.15.19:560][879]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2018.11.25-21.15.19:560][879]LogTexture: Display: Building textures: T_Cream_Paint_D (AutoDXT, 2048X2048)
+[2018.11.25-21.15.32:179][879]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.11.25-21.15.32:179][879]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2018.11.25-21.15.32:179][879]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.11.25-21.15.32:179][879]LogTexture: Display: Building textures: T_HDRI_Epic_Courtyard_Daylight (RGBA16F, 4096X2048)
+[2018.11.25-21.15.32:183][879]LogMaterial: Display: Missing cached shader map for material M_Belica_ArmComputer_PolarStrike, compiling. 
+[2018.11.25-21.15.32:324][879]LogSkeletalMesh: Building Skeletal Mesh Belica_PolarStrike...
+[2018.11.25-21.15.32:713][879]LogSkeletalMesh: Built Skeletal Mesh [0.39s] /Game/ParagonLtBelica/Characters/Heroes/Belica/Skins/PolarStrike/Meshes/Belica_PolarStrike.Belica_PolarStrike
+[2018.11.25-21.15.32:739][879]LogMaterial: Display: Missing cached shader map for material M_Belica_HeavyArmor_UpperBod, compiling. 
+[2018.11.25-21.15.32:877][879]LogMaterial: Display: Missing cached shader map for material M_Belica_HeavyArmor_LowerBody, compiling. 
+[2018.11.25-21.15.32:992][879]LogMaterial: Display: Missing cached shader map for material M_Belica_HeavyArmor_Guns, compiling. 
+[2018.11.25-21.15.33:103][879]LogMaterial: Display: Missing cached shader map for material M_Belica_HeavyArmor_FaceMask, compiling. 
+[2018.11.25-21.15.33:238][879]LogMaterial: Display: Missing cached shader map for material M_AssetPlatform, compiling. 
+[2018.11.25-21.15.33:369][879]LogStaticMesh: Building static mesh SM_WitchHat...
+[2018.11.25-21.15.33:873][879]LogShaderCompilers: Display: Shaders left to compile 6596
+[2018.11.25-21.15.33:873][879]LogStaticMesh: Built static mesh [0.50s] /Game/ParagonLtBelica/Characters/Heroes/Belica/Skins/SpiderWitch/Meshes/SM_WitchHat.SM_WitchHat
+[2018.11.25-21.15.33:878][879]LogMaterial: Display: Missing cached shader map for material M_HairSheet_Master2, compiling. 
+[2018.11.25-21.15.34:007][879]LogMaterial: Display: Missing cached shader map for material M_Belica_UpperBody_SpiderWitch, compiling. 
+[2018.11.25-21.15.34:589][879]LogTexture: Display: Building textures: T_Synthetic_Leather01_D (AutoDXT, 2048X2048)
+[2018.11.25-21.15.40:012][879]LogShaderCompilers: Display: Shaders left to compile 7104
+[2018.11.25-21.15.40:012][879]LogShaderCompilers: Display: Shaders left to compile 7094
+[2018.11.25-21.15.40:012][879]LogShaderCompilers: Display: Shaders left to compile 7084
+[2018.11.25-21.15.40:018][879]LogMaterial: Display: Missing cached shader map for material M_WitchHat, compiling. 
+[2018.11.25-21.15.40:090][879]LogMaterial: Display: Missing cached shader map for material M_Belica_Head_SpiderWitch, compiling. 
+[2018.11.25-21.15.40:226][879]LogMaterial: Display: Missing cached shader map for material M_Belica_Guns_SpiderWitch, compiling. 
+[2018.11.25-21.15.40:329][879]LogMaterial: Display: Missing cached shader map for material M_Belica_ArmComputer_SpiderWitch, compiling. 
+[2018.11.25-21.15.40:427][879]LogSkeletalMesh: Building Skeletal Mesh Belica_SpiderWitch...
+[2018.11.25-21.15.40:715][879]LogShaderCompilers: Display: Shaders left to compile 7848
+[2018.11.25-21.15.40:715][879]LogSkeletalMesh: Built Skeletal Mesh [0.29s] /Game/ParagonLtBelica/Characters/Heroes/Belica/Skins/SpiderWitch/Meshes/Belica_SpiderWitch.Belica_SpiderWitch
+[2018.11.25-21.15.40:732][879]LogMaterial: Display: Missing cached shader map for material M_Belica_UpperBody_PolarStrike, compiling. 
+[2018.11.25-21.15.40:848][879]LogMaterial: Display: Missing cached shader map for material M_Belica_Head_PolarStrike, compiling. 
+[2018.11.25-21.15.40:950][879]LogMaterial: Display: Missing cached shader map for material M_Belica_Guns_PolarStrike, compiling. 
+[2018.11.25-21.15.41:051][879]LogSkeletalMesh: Building Skeletal Mesh Belica...
+[2018.11.25-21.15.41:323][879]LogSkeletalMesh: Built Skeletal Mesh [0.27s] /Game/ParagonLtBelica/Characters/Heroes/Belica/Meshes/Belica.Belica
+[2018.11.25-21.15.41:770][879]LogMaterial: Display: Missing cached shader map for material M_HDRSky, compiling. 
+[2018.11.25-21.15.41:808][879]LogAIModule: Creating AISystem for world LtBelica
+[2018.11.25-21.15.41:820][879]LogAssetEditorManager: Opening Asset editor for World /Game/ParagonLtBelica/Characters/Maps/LtBelica.LtBelica
+[2018.11.25-21.15.42:417][879]LogShaderCompilers: Display: Shaders left to compile 8482
+[2018.11.25-21.15.42:418][879]Cmd: MAP LOAD FILE="../../../../../../Users/fox56/Documents/PeopleWithGuns/Content/ParagonLtBelica/Characters/Maps/LtBelica.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.25-21.15.42:418][879]LightingResults: New page: Lighting Build
+[2018.11.25-21.15.42:419][879]LoadErrors: New page: Loading map: LtBelica.umap
+[2018.11.25-21.15.42:419][879]MapCheck: New page: Map Check
+[2018.11.25-21.15.42:420][879]LightingResults: New page: Lighting Build
+[2018.11.25-21.15.42:559][879]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.25-21.15.44:427][879]LogShaderCompilers: Display: Shaders left to compile 8472
+[2018.11.25-21.15.44:456][879]LogShaderCompilers: Display: Shaders left to compile 8462
+[2018.11.25-21.15.44:456][879]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.25-21.15.44:605][879]LogShaderCompilers: Display: Shaders left to compile 8452
+[2018.11.25-21.15.44:605][879]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 148,595ms to complete.
+[2018.11.25-21.15.44:605][879]LogFileHelpers: Loading map 'LtBelica' took 2.188
+[2018.11.25-21.15.47:107][936]LogShaderCompilers: Display: Shaders left to compile 8442
+[2018.11.25-21.15.47:667][960]LogShaderCompilers: Display: Shaders left to compile 8432
+[2018.11.25-21.15.47:931][974]LogShaderCompilers: Display: Shaders left to compile 8422
+[2018.11.25-21.15.49:386][ 50]LogShaderCompilers: Display: Shaders left to compile 8412
+[2018.11.25-21.15.52:604][ 50]LogShaderCompilers: Display: Shaders left to compile 8402
+[2018.11.25-21.15.53:363][ 50]LogShaderCompilers: Display: Shaders left to compile 8392
+[2018.11.25-21.15.54:360][ 50]LogShaderCompilers: Display: Shaders left to compile 8382
+[2018.11.25-21.15.55:077][ 50]LogShaderCompilers: Display: Shaders left to compile 8372
+[2018.11.25-21.15.56:139][ 50]LogShaderCompilers: Display: Shaders left to compile 8362
+[2018.11.25-21.15.58:586][ 50]LogShaderCompilers: Display: Shaders left to compile 8352
+[2018.11.25-21.15.59:190][ 50]LogShaderCompilers: Display: Shaders left to compile 8342
+[2018.11.25-21.16.01:457][ 50]LogShaderCompilers: Display: Shaders left to compile 8332
+[2018.11.25-21.16.02:159][ 50]LogShaderCompilers: Display: Shaders left to compile 8322
+[2018.11.25-21.16.04:487][ 50]LogShaderCompilers: Display: Shaders left to compile 8312
+[2018.11.25-21.16.04:561][ 50]LogShaderCompilers: Display: Shaders left to compile 8302
+[2018.11.25-21.16.04:999][ 50]LogShaderCompilers: Display: Shaders left to compile 8292
+[2018.11.25-21.16.07:969][ 50]LogShaderCompilers: Display: Shaders left to compile 8282
+[2018.11.25-21.16.08:222][ 50]LogShaderCompilers: Display: Shaders left to compile 8272

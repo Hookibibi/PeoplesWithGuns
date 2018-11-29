@@ -1,0 +1,1306 @@
+﻿Log file open, 11/29/18 01:16:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: PeopleWithGuns
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.201704
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.129s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epicusername="Hookibibi" -epicuserid=e13323db472b437e907144303bb07345 -epiclocale=fr-FR
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.29-00.16.31:827][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.29-00.16.31:827][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.29-00.16.31:840][  0]LogHAL: Display: Platform has ~ 16 GB [17143238656 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.29-00.16.31:840][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.29-00.16.31:840][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.29-00.16.31:840][  0]LogInit: Computer: DESKTOP-IL37EE6
+[2018.11.29-00.16.31:840][  0]LogInit: User: fox56
+[2018.11.29-00.16.31:840][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.29-00.16.31:840][  0]LogInit: High frequency timer resolution =2.929692 MHz
+[2018.11.29-00.16.31:840][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.11.29-00.16.31:841][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.29-00.16.31:841][  0]LogMemory: Process Physical Memory: 99.52 MB used, 99.52 MB peak
+[2018.11.29-00.16.31:841][  0]LogMemory: Process Virtual Memory: 90.63 MB used, 90.63 MB peak
+[2018.11.29-00.16.31:841][  0]LogMemory: Physical Memory: 6062.02 MB used,  10287.04 MB free, 16349.07 MB total
+[2018.11.29-00.16.31:841][  0]LogMemory: Virtual Memory: 4631.47 MB used,  10287.04 MB free, 134217728.00 MB total
+[2018.11.29-00.16.31:860][  0]LogInit: Using OS detected language (fr-FR).
+[2018.11.29-00.16.31:860][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.11.29-00.16.31:861][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2018.11.29-00.16.31:863][  0]LogStreaming: Display: Took  0.003s to InitEngineTextLocalization.
+[2018.11.29-00.16.31:863][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.29-00.16.31:884][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.29-00.16.31:884][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.29-00.16.32:073][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.29-00.16.32:073][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.29-00.16.32:127][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2018.11.29-00.16.32:127][  0]LogD3D11RHI:       2988/0/8174 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.29-00.16.32:129][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.29-00.16.32:129][  0]LogD3D11RHI:       0/0/8174 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.29-00.16.32:129][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.29-00.16.32:135][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.29-00.16.32:135][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.29-00.16.32:135][  0]LogWindows: EnumDisplayDevices:
+[2018.11.29-00.16.32:135][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2018.11.29-00.16.32:135][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.11.29-00.16.32:135][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.11.29-00.16.32:136][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.11.29-00.16.32:136][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.11.29-00.16.32:136][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2018.11.29-00.16.32:136][  0]LogD3D11RHI:   Driver Version: 416.94 (internal:25.21.14.1694, unified:416.94)
+[2018.11.29-00.16.32:136][  0]LogD3D11RHI:      Driver Date: 11-12-2018
+[2018.11.29-00.16.32:136][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2018.11.29-00.16.32:174][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.29-00.16.32:209][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.29-00.16.32:258][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (../../../../../../Users/fox56/Documents/PeopleWithGuns/Intermediate/Shaders/WorkingDirectory/7188/).
+[2018.11.29-00.16.32:258][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/fox56/AppData/Local/Temp/UnrealShaderWorkingDir/6A77B6844763ABE8DEF39DB1274DE264/'.
+[2018.11.29-00.16.32:532][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.29-00.16.32:546][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.29-00.16.32:561][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.29-00.16.32:576][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.29-00.16.32:591][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.29-00.16.32:605][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.29-00.16.32:620][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.29-00.16.32:636][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.29-00.16.32:643][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.29-00.16.32:729][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-00.16.32:729][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-00.16.32:729][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-00.16.32:729][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-00.16.32:729][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-00.16.32:730][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-00.16.32:730][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-00.16.32:730][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-00.16.32:730][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-00.16.32:730][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-00.16.32:730][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-00.16.32:730][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-00.16.32:730][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-00.16.32:730][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-00.16.32:730][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-00.16.32:730][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-00.16.32:730][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-00.16.32:730][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-00.16.32:731][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.29-00.16.32:794][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.29-00.16.32:794][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.29-00.16.32:819][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.29-00.16.32:819][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.29-00.16.32:832][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.29-00.16.32:845][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.29-00.16.32:856][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.29-00.16.32:870][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.29-00.16.32:879][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.29-00.16.32:879][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.29-00.16.32:948][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.29-00.16.32:948][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.29-00.16.32:948][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.29-00.16.33:729][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.29-00.16.33:786][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/fox56/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.29-00.16.33:786][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/fox56/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.29-00.16.33:786][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/fox56/Documents/PeopleWithGuns/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.29-00.16.33:786][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.29-00.16.33:786][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/fox56/Documents/PeopleWithGuns/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.29-00.16.33:786][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.29-00.16.33:800][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.29-00.16.33:813][  0]LogDerivedDataCache: Using Local data cache path C:/Users/fox56/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.29-00.16.33:813][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.29-00.16.33:813][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.29-00.16.33:832][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.29-00.16.33:833][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.29-00.16.33:833][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.29-00.16.33:912][  0]LogAssetRegistry: FAssetRegistry took 0.0267 seconds to start up
+[2018.11.29-00.16.34:244][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.29-00.16.34:382][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.29-00.16.34:387][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.29-00.16.34:387][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.29-00.16.34:387][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.29-00.16.34:387][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.29-00.16.34:406][  0]LogNetVersion: PeopleWithGuns 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1271298656)
+[2018.11.29-00.16.34:944][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.118225 seconds
+[2018.11.29-00.16.34:950][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.29-00.16.34:950][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.11.29-00.16.34:950][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.29-00.16.35:855][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.29-00.16.35:868][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.29-00.16.36:010][  0]SourceControl: Source control is disabled
+[2018.11.29-00.16.36:010][  0]SourceControl: Source control is disabled
+[2018.11.29-00.16.36:011][  0]SourceControl: Source control is disabled
+[2018.11.29-00.16.36:012][  0]SourceControl: Source control is disabled
+[2018.11.29-00.16.36:175][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.29-00.16.36:250][  0]LogOcInput: OculusInput pre-init called
+[2018.11.29-00.16.36:315][  0]LogEngine: Initializing Engine...
+[2018.11.29-00.16.36:316][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.29-00.16.36:318][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.29-00.16.36:318][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.29-00.16.36:318][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.29-00.16.36:318][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.29-00.16.36:547][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.29-00.16.36:563][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.29-00.16.36:577][  0]LogInit: XAudio2 using 'Casque pour téléphone (Corsair VOID PRO Surround USB Adapter)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.11.29-00.16.36:718][  0]LogInit: FAudioDevice initialized.
+[2018.11.29-00.16.36:718][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.29-00.16.36:857][  0]LogDerivedDataCache: Saved boot cache 0.14s 71MB C:/Users/fox56/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.29-00.16.36:861][  0]LogInit: Texture streaming: Enabled
+[2018.11.29-00.16.36:879][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.29-00.16.36:895][  0]LogInit: Transaction tracking system initialized
+[2018.11.29-00.16.36:923][  0]BlueprintLog: New page: Editor Load
+[2018.11.29-00.16.37:015][  0]LocalizationService: Localization service is disabled
+[2018.11.29-00.16.37:274][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.29-00.16.37:274][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.29-00.16.37:274][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.29-00.16.37:274][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.29-00.16.37:274][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.29-00.16.37:274][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.29-00.16.37:274][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.29-00.16.37:399][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fox56/Documents/PeopleWithGuns/Content/' took 0.04s
+[2018.11.29-00.16.37:399][  0]SourceControl: Source control is disabled
+[2018.11.29-00.16.37:399][  0]Cmd: MAP LOAD FILE="../../../../../../Users/fox56/Documents/PeopleWithGuns/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.29-00.16.37:399][  0]LightingResults: New page: Lighting Build
+[2018.11.29-00.16.37:402][  0]MapCheck: New page: Map Check
+[2018.11.29-00.16.37:402][  0]LightingResults: New page: Lighting Build
+[2018.11.29-00.16.37:427][  0]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.29-00.16.37:428][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.29-00.16.37:451][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.29-00.16.37:528][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 76,122ms to complete.
+[2018.11.29-00.16.37:528][  0]LogFileHelpers: Loading map 'MainMenu' took 0.129
+[2018.11.29-00.16.37:775][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-00.16.37:783][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-00.16.37:791][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-00.16.37:799][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-00.16.37:810][  0]LogCollectionManager: Loaded 0 collections in 0.002253 seconds
+[2018.11.29-00.16.37:851][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fox56/Documents/PeopleWithGuns/Saved/Collections/' took 0.01s
+[2018.11.29-00.16.37:851][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fox56/Documents/PeopleWithGuns/Content/Developers/fox56/Collections/' took 0.01s
+[2018.11.29-00.16.37:851][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fox56/Documents/PeopleWithGuns/Content/Collections/' took 0.01s
+[2018.11.29-00.16.37:851][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.11.29-00.16.37:861][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2572 classes and 603 folders.
+[2018.11.29-00.16.37:868][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.29-00.16.38:038][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.29-00.16.38:043][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.11.29-00.16.38:061][  0]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.29-00.16.38:063][  0]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.29-00.16.38:074][  0]LogSlate: Took 0.006702 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.29-00.16.38:180][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.11.29-00.16.38:249][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.29-00.16.38:265][  0]LogSlate: Window 'Tutorials' being destroyed
+[2018.11.29-00.16.38:295][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.29-00.16.38:295][  0]LogLoad: (Engine Initialization) Total time: 8.39 seconds
+[2018.11.29-00.16.38:295][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.29-00.16.38:305][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.29-00.16.38:325][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.29-00.16.38:354][  0]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.29-00.16.38:400][  2]LogAssetRegistry: Asset discovery search completed in 4.5105 seconds
+[2018.11.29-00.16.38:402][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.29-00.16.38:402][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
+[2018.11.29-00.16.41:688][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-00.16.51:755][421]LogSlate: Took 0.000283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.29-00.16.58:001][421]LogAIModule: Creating AISystem for world AnimationTestMap
+[2018.11.29-00.16.58:018][421]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.16.58:032][421]LogAssetEditorManager: Opening Asset editor for World /Game/ParagonWraith/Characters/Heroes/Wraith/AnimationTestMap.AnimationTestMap
+[2018.11.29-00.16.58:096][421]Cmd: MAP LOAD FILE="../../../../../../Users/fox56/Documents/PeopleWithGuns/Content/ParagonWraith/Characters/Heroes/Wraith/AnimationTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.29-00.16.58:096][421]LightingResults: New page: Lighting Build
+[2018.11.29-00.16.58:096][421]LoadErrors: New page: Loading map: AnimationTestMap.umap
+[2018.11.29-00.16.58:112][421]MapCheck: New page: Map Check
+[2018.11.29-00.16.58:112][421]LightingResults: New page: Lighting Build
+[2018.11.29-00.16.58:210][421]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.16.58:303][421]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.29-00.16.58:364][421]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.29-00.16.58:477][421]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 112,219ms to complete.
+[2018.11.29-00.16.58:477][421]LogFileHelpers: Loading map 'AnimationTestMap' took 0.382
+[2018.11.29-00.16.58:557][421]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.17.47:183][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-00.17.50:970][536]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint
+[2018.11.29-00.17.51:160][536]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.29-00.17.51:888][536]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.11.29-00.17.51:921][536]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.11.29-00.17.53:112][536]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.11.29-00.17.54:474][536]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.11.29-00.17.55:640][536]LogSlate: Took 0.010361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.29-00.17.55:765][536]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2018.11.29-00.18.01:053][609]LogSlate: Took 0.046480 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.29-00.18.06:489][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-00.18.08:079][936]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Blendspaces/JogFwdSlopeLean.JogFwdSlopeLean
+[2018.11.29-00.18.08:303][936]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.11.29-00.18.08:349][936]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.11.29-00.18.08:945][936]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.11.29-00.18.16:376][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-00.18.27:080][438]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Ability_R.Ability_R
+[2018.11.29-00.18.27:080][438]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Ability_R.Ability_R) using current/default (AnimCompress_PerTrackCompression_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.18.35:563][ 93]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/TurnInPlace_Slow.TurnInPlace_Slow
+[2018.11.29-00.18.35:563][ 93]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/TurnInPlace_Slow.TurnInPlace_Slow) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.18.35:801][ 93]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/TurnInPlace_Zero.TurnInPlace_Zero
+[2018.11.29-00.18.35:801][ 93]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/TurnInPlace_Zero.TurnInPlace_Zero) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.18.35:804][ 93]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/TurnInPlace_Fast.TurnInPlace_Fast
+[2018.11.29-00.18.35:805][ 93]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/TurnInPlace_Fast.TurnInPlace_Fast) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.19.06:626][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-00.19.11:628][175]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Respawn.Respawn
+[2018.11.29-00.19.11:628][175]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Respawn.Respawn) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.19.19:630][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-00.19.26:057][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-00.19.26:250][325]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Jump_Pad.Jump_Pad
+[2018.11.29-00.19.26:250][325]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Jump_Pad.Jump_Pad) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.19.31:445][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-00.19.37:481][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-00.19.37:689][148]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Jog_Right.Jog_Right
+[2018.11.29-00.19.37:689][148]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Jog_Right.Jog_Right) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.19.45:309][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-00.19.45:498][752]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Jog_Bwd.Jog_Bwd
+[2018.11.29-00.19.45:498][752]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Jog_Bwd.Jog_Bwd) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.20.16:505][140]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Jog_Left_CircleLeft.Jog_Left_CircleLeft
+[2018.11.29-00.20.16:506][140]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Jog_Left_CircleLeft.Jog_Left_CircleLeft) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.20.16:729][140]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Jog_Left_CircleRight.Jog_Left_CircleRight
+[2018.11.29-00.20.16:729][140]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Jog_Left_CircleRight.Jog_Left_CircleRight) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.20.16:953][140]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Jog_Left_Downhill.Jog_Left_Downhill
+[2018.11.29-00.20.16:954][140]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Jog_Left_Downhill.Jog_Left_Downhill) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.20.17:039][140]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Jog_Left_Uphill.Jog_Left_Uphill
+[2018.11.29-00.20.17:039][140]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Jog_Left_Uphill.Jog_Left_Uphill) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.20.17:127][140]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Jog_Left.Jog_Left
+[2018.11.29-00.20.17:128][140]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Jog_Left.Jog_Left) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.20.48:299][877]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Jog_Bwd_CircleLeft.Jog_Bwd_CircleLeft
+[2018.11.29-00.20.48:299][877]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Jog_Bwd_CircleLeft.Jog_Bwd_CircleLeft) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.20.52:620][188]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Jog_Bwd_CircleRight.Jog_Bwd_CircleRight
+[2018.11.29-00.20.52:621][188]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Jog_Bwd_CircleRight.Jog_Bwd_CircleRight) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.21.20:024][582]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Jog_Bwd_Start.Jog_Bwd_Start
+[2018.11.29-00.21.20:024][582]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Jog_Bwd_Start.Jog_Bwd_Start) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.21.33:413][628]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Ability_RMB_Walk_Left.Ability_RMB_Walk_Left
+[2018.11.29-00.21.33:414][628]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Ability_RMB_Walk_Left.Ability_RMB_Walk_Left) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.21.36:872][860]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Ability_RMB_Walk_Fwd.Ability_RMB_Walk_Fwd
+[2018.11.29-00.21.36:872][860]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Ability_RMB_Walk_Fwd.Ability_RMB_Walk_Fwd) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.21.42:292][296]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Ability_RMB_Walk_Bwd.Ability_RMB_Walk_Bwd
+[2018.11.29-00.21.42:292][296]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Ability_RMB_Walk_Bwd.Ability_RMB_Walk_Bwd) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.21.44:181][424]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Ability_RMB_Walk_Right.Ability_RMB_Walk_Right
+[2018.11.29-00.21.44:181][424]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Ability_RMB_Walk_Right.Ability_RMB_Walk_Right) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.22.00:119][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-00.22.02:195][ 22]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2018.11.29-00.22.03:678][158]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.11.29-00.22.05:353][298]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Ability_E_Recovery_MSA.Ability_E_Recovery_MSA
+[2018.11.29-00.22.05:354][298]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Ability_E_Recovery_MSA.Ability_E_Recovery_MSA) using current/default (AnimCompress_PerTrackCompression_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.22.05:741][325]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Ability_E_Recovery.Ability_E_Recovery
+[2018.11.29-00.22.05:741][325]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Ability_E_Recovery.Ability_E_Recovery) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.22.09:496][616]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Ability_Q_Fire.Ability_Q_Fire
+[2018.11.29-00.22.09:497][616]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Ability_Q_Fire.Ability_Q_Fire) using current/default (AnimCompress_PerTrackCompression_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.22.12:556][836]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Fire_A_Fast_V1.Fire_A_Fast_V1
+[2018.11.29-00.22.12:556][836]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Fire_A_Fast_V1.Fire_A_Fast_V1) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.22.21:192][511]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Fire_Snipe_A_Slow.Fire_Snipe_A_Slow
+[2018.11.29-00.22.21:192][511]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Fire_Snipe_A_Slow.Fire_Snipe_A_Slow) using current/default (AnimCompress_PerTrackCompression_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.22.26:908][899]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Fire_A_Slow_MSA.Fire_A_Slow_MSA
+[2018.11.29-00.22.26:910][899]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Fire_A_Slow_MSA.Fire_A_Slow_MSA) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.22.37:119][630]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Fire_Snipe_A_Slow_MSA.Fire_Snipe_A_Slow_MSA
+[2018.11.29-00.22.37:121][630]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Fire_Snipe_A_Slow_MSA.Fire_Snipe_A_Slow_MSA) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.23.01:355][650]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/HitReact_Left.HitReact_Left
+[2018.11.29-00.23.01:357][650]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/HitReact_Left.HitReact_Left) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.23.05:106][931]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/HitReact_Front.HitReact_Front
+[2018.11.29-00.23.05:107][931]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/HitReact_Front.HitReact_Front) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.23.08:870][215]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Recall.Recall
+[2018.11.29-00.23.08:871][215]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Recall.Recall) using current/default (AnimCompress_PerTrackCompression_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.23.27:350][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-00.23.32:814][148]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Locomotion_Combat/Jump_Recovery_Combat.Jump_Recovery_Combat
+[2018.11.29-00.23.32:814][148]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Locomotion_Combat/Jump_Recovery_Combat.Jump_Recovery_Combat) using current/default (AnimCompress_PerTrackCompression_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.23.41:894][860]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Locomotion_Combat/Jump_Start_Combat.Jump_Start_Combat
+[2018.11.29-00.23.41:895][860]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Locomotion_Combat/Jump_Start_Combat.Jump_Start_Combat) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.24.56:001][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-00.24.56:193][ 76]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Jump_Recovery.Jump_Recovery
+[2018.11.29-00.24.56:193][ 76]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Jump_Recovery.Jump_Recovery) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.24.59:785][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-00.26.16:648][556]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Locomotion_Combat/Jump_Apex_Combat.Jump_Apex_Combat
+[2018.11.29-00.26.16:648][556]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Locomotion_Combat/Jump_Apex_Combat.Jump_Apex_Combat) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.26.54:368][255]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Locomotion_Combat/Jump_Land_Combat.Jump_Land_Combat
+[2018.11.29-00.26.54:368][255]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Locomotion_Combat/Jump_Land_Combat.Jump_Land_Combat) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.27.19:569][427]LogSavePackage: Moving '../../../../../../Users/fox56/Documents/PeopleWithGuns/Saved/Jump_Recovery_CombatECD823C943DB100054DED8BEA817F73D.tmp' to '../../../../../../Users/fox56/Documents/PeopleWithGuns/Content/ParagonWraith/Characters/Heroes/Wraith/Animations/Locomotion_Combat/Jump_Recovery_Combat.uasset'
+[2018.11.29-00.27.21:921][629]LogSlate: Window 'Jump_Recovery_Combat' being destroyed
+[2018.11.29-00.27.21:925][629]LogSlate: Window 'Jump_Recovery_Combat' being destroyed
+[2018.11.29-00.27.24:038][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.11.29-00.27.24:397][822]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.11.29-00.27.25:064][882]LogEditorViewport: Clicking on Actor (LMB): WraithPlayerCharacter_C (ThirdPersonCharacter)
+[2018.11.29-00.27.29:122][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-00.27.29:297][289]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ParagonWraith/Characters/Heroes/Wraith/WraithPlayerCharacter.WraithPlayerCharacter
+[2018.11.29-00.27.29:765][289]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.27.31:455][379]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.27.31:495][380]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1).
+[2018.11.29-00.27.43:783][219]LogEditorTransaction: Undo Modify Component(s)
+[2018.11.29-00.27.43:821][219]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.27.43:822][219]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.27.43:823][219]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.27.43:825][219]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.27.43:884][219]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.27.44:950][289]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-00.28.09:037][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-00.28.09:121][948]BlueprintLog: New page: Compile WraithPlayerCharacter
+[2018.11.29-00.28.09:209][948]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.28.09:275][948]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.28.09:334][948]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.28.09:335][948]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.28.09:336][948]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.28.09:339][948]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.28.09:755][948]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.28.09:757][948]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.28.09:758][948]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.28.09:759][948]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.28.09:765][948]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.28.09:767][948]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.28.09:768][948]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.28.09:912][948]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.28.11:617][ 61]LogSlate: Window 'WraithPlayerCharacter*' being destroyed
+[2018.11.29-00.28.11:620][ 61]LogSlate: Window 'WraithPlayerCharacter*' being destroyed
+[2018.11.29-00.28.13:239][234]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.29-00.28.13:283][234]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.29-00.28.13:330][234]PIE: New page: PIE session: AnimationTestMap (29 nov. 2018 02:28:13)
+[2018.11.29-00.28.13:342][234]LogPlayLevel: Creating play world package: /Game/ParagonWraith/Characters/Heroes/Wraith/UEDPIE_0_AnimationTestMap
+[2018.11.29-00.28.13:348][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005210s)
+[2018.11.29-00.28.13:348][234]LogAIModule: Creating AISystem for world AnimationTestMap
+[2018.11.29-00.28.13:353][234]LogPlayLevel: PIE: World Init took: (0.005902s)
+[2018.11.29-00.28.13:353][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ParagonWraith/Characters/Heroes/Wraith/AnimationTestMap.AnimationTestMap to /Game/ParagonWraith/Characters/Heroes/Wraith/UEDPIE_0_AnimationTestMap.AnimationTestMap (0.011337s)
+[2018.11.29-00.28.13:437][234]LogInit: XAudio2 using 'Casque pour téléphone (Corsair VOID PRO Surround USB Adapter)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.11.29-00.28.13:569][234]LogInit: FAudioDevice initialized.
+[2018.11.29-00.28.14:719][234]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.29-00.28.14:735][234]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.28.14:735][234]LogWorld: Bringing World /Game/ParagonWraith/Characters/Heroes/Wraith/UEDPIE_0_AnimationTestMap.AnimationTestMap up for play (max tick rate 0) at 2018.11.29-01.28.14
+[2018.11.29-00.28.14:749][234]LogWorld: Bringing up level for play took: 0.029283
+[2018.11.29-00.28.14:828][234]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.11.29-00.28.14:839][234]PIE: Play in editor start time for /Game/ParagonWraith/Characters/Heroes/Wraith/UEDPIE_0_AnimationTestMap 1,755
+[2018.11.29-00.28.16:893][467]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonWraith/Characters/Heroes/Wraith/Animations/LevelStart_Montage.LevelStart_Montage'
+[2018.11.29-00.28.48:640][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-00.28.48:674][273]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.29-00.28.48:705][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-00.28.48:746][277]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2018.11.29-00.28.53:496][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-00.28.53:648][855]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ParagonWraith/Characters/Heroes/Wraith/WraithPlayerCharacter.WraithPlayerCharacter
+[2018.11.29-00.28.53:958][855]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.28.55:403][954]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.29.07:202][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-00.29.07:289][ 18]BlueprintLog: New page: Compile WraithPlayerCharacter
+[2018.11.29-00.29.07:330][ 18]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.29.07:331][ 18]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.29.07:333][ 18]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.29.07:334][ 18]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.29.07:335][ 18]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.29.07:337][ 18]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.29.07:495][ 18]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.29.07:497][ 18]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.29.07:498][ 18]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.29.07:499][ 18]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.29.07:512][ 18]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.29.07:514][ 18]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.29.07:515][ 18]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.29.07:564][ 18]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.29.14:892][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-00.29.14:958][479]BlueprintLog: New page: Compile WraithPlayerCharacter
+[2018.11.29-00.29.14:996][479]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.29.14:998][479]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.29.14:999][479]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.29.15:001][479]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.29.15:002][479]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.29.15:003][479]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.29.15:162][479]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.29.15:164][479]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.29.15:165][479]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.29.15:166][479]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.29.15:173][479]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.29.15:175][479]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.29.15:176][479]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.29.15:211][479]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.29.15:746][521]LogSlate: Window 'WraithPlayerCharacter*' being destroyed
+[2018.11.29-00.29.15:749][521]LogSlate: Window 'WraithPlayerCharacter*' being destroyed
+[2018.11.29-00.29.16:635][618]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.29-00.29.16:654][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.29-00.29.16:654][618]PIE: New page: PIE session: AnimationTestMap (29 nov. 2018 02:29:16)
+[2018.11.29-00.29.16:654][618]LogPlayLevel: Creating play world package: /Game/ParagonWraith/Characters/Heroes/Wraith/UEDPIE_0_AnimationTestMap
+[2018.11.29-00.29.16:657][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002392s)
+[2018.11.29-00.29.16:657][618]LogAIModule: Creating AISystem for world AnimationTestMap
+[2018.11.29-00.29.16:657][618]LogPlayLevel: PIE: World Init took: (0.000648s)
+[2018.11.29-00.29.16:657][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ParagonWraith/Characters/Heroes/Wraith/AnimationTestMap.AnimationTestMap to /Game/ParagonWraith/Characters/Heroes/Wraith/UEDPIE_0_AnimationTestMap.AnimationTestMap (0.003179s)
+[2018.11.29-00.29.16:694][618]LogInit: XAudio2 using 'Casque pour téléphone (Corsair VOID PRO Surround USB Adapter)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.11.29-00.29.16:833][618]LogInit: FAudioDevice initialized.
+[2018.11.29-00.29.16:867][618]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.29-00.29.16:869][618]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.29.16:869][618]LogWorld: Bringing World /Game/ParagonWraith/Characters/Heroes/Wraith/UEDPIE_0_AnimationTestMap.AnimationTestMap up for play (max tick rate 0) at 2018.11.29-01.29.16
+[2018.11.29-00.29.16:870][618]LogWorld: Bringing up level for play took: 0.001417
+[2018.11.29-00.29.16:882][618]PIE: Play in editor start time for /Game/ParagonWraith/Characters/Heroes/Wraith/UEDPIE_0_AnimationTestMap -0,203
+[2018.11.29-00.29.18:982][868]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonWraith/Characters/Heroes/Wraith/Animations/LevelStart_Montage.LevelStart_Montage'
+[2018.11.29-00.29.46:569][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-00.29.46:601][174]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.29-00.29.46:630][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-00.29.46:669][177]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2018.11.29-00.29.53:847][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-00.29.54:316][852]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint
+[2018.11.29-00.29.54:328][852]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_61:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.11.29-00.29.54:601][852]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_61:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.11.29-00.29.59:842][166]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Blendspaces/JogFwdSlopeLean.JogFwdSlopeLean
+[2018.11.29-00.29.59:849][166]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_63:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.11.29-00.29.59:876][166]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_63:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.11.29-00.30.00:253][166]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.11.29-00.30.13:617][256]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Idle_NonCombat.Idle_NonCombat
+[2018.11.29-00.30.13:617][256]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Idle_NonCombat.Idle_NonCombat) using current/default (AnimCompress_PerTrackCompression_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.30.16:092][442]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Locomotion_Combat/Idle_Combat_Additive.Idle_Combat_Additive
+[2018.11.29-00.30.16:104][442]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Locomotion_Combat/Idle_Combat_Additive.Idle_Combat_Additive) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.30.19:089][661]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Locomotion_Combat/Idle_Combat_LMB.Idle_Combat_LMB
+[2018.11.29-00.30.19:089][661]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonWraith/Characters/Heroes/Wraith/Animations/Locomotion_Combat/Idle_Combat_LMB.Idle_Combat_LMB) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.29-00.30.35:258][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-00.30.52:567][133]LogUObjectBase: Warning: Object is not registered
+[2018.11.29-00.30.54:210][133]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.643 s
+[2018.11.29-00.30.54:210][133]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.29-00.30.54:210][133]LogOutputDevice: Error: 
+[2018.11.29-00.30.54:210][133]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2018.11.29-00.30.54:210][133]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.11.29-00.30.54:210][133]LogOutputDevice: Error: Stack: 
+[2018.11.29-00.30.54:210][133]LogOutputDevice: Error: [Callstack] 0x00007ff8b1e371f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.29-00.30.54:210][133]LogOutputDevice: Error: [Callstack] 0x00007ff8b1b70c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.29-00.30.54:210][133]LogOutputDevice: Error: [Callstack] 0x00007ff8b1b8b356 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.29-00.30.54:210][133]LogOutputDevice: Error: [Callstack] 0x00007ff8ad9611db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.29-00.30.54:210][133]LogOutputDevice: Error: [Callstack] 0x00007ff8ad97060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.29-00.30.54:210][133]LogOutputDevice: Error: [Callstack] 0x00007ff8ce02da7a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.11.29-00.30.54:210][133]LogOutputDevice: Error: [Callstack] 0x00007ff8ab96ec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.11.29-00.30.54:210][133]LogOutputDevice: Error: [Callstack] 0x00007ff8ab92f337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.11.29-00.30.54:210][133]LogOutputDevice: Error: [Callstack] 0x00007ff8ae848204 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.29-00.30.54:210][133]LogOutputDevice: Error: [Callstack] 0x00007ff8aea8e933 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.29-00.30.54:210][133]LogOutputDevice: Error: [Callstack] 0x00007ff8ae8a281a UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.29-00.30.54:211][133]LogOutputDevice: Error: [Callstack] 0x00007ff8ae878190 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.29-00.30.54:211][133]LogOutputDevice: Error: [Callstack] 0x00007ff8ae86b073 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.29-00.30.54:211][133]LogOutputDevice: Error: [Callstack] 0x00007ff908dcd007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.29-00.30.54:211][133]LogOutputDevice: Error: [Callstack] 0x00007ff908dc0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.29-00.30.54:211][133]LogOutputDevice: Error: [Callstack] 0x00007ff908dcf4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.29-00.30.54:211][133]LogOutputDevice: Error: [Callstack] 0x00007ff908dbc209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.29-00.30.54:211][133]LogOutputDevice: Error: [Callstack] 0x00007ff932ad6d41 USER32.dll!UnknownFunction []
+[2018.11.29-00.30.54:211][133]LogOutputDevice: Error: [Callstack] 0x00007ff932ad6713 USER32.dll!UnknownFunction []
+[2018.11.29-00.30.54:211][133]LogOutputDevice: Error: [Callstack] 0x00007ff908dd0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.29-00.30.54:211][133]LogOutputDevice: Error: [Callstack] 0x00007ff6d83354e5 UE4Editor.exe!UnknownFunction []
+[2018.11.29-00.30.54:211][133]LogOutputDevice: Error: [Callstack] 0x00007ff6d8345b3c UE4Editor.exe!UnknownFunction []
+[2018.11.29-00.30.54:211][133]LogOutputDevice: Error: [Callstack] 0x00007ff6d8345bba UE4Editor.exe!UnknownFunction []
+[2018.11.29-00.30.54:211][133]LogOutputDevice: Error: [Callstack] 0x00007ff6d8353dac UE4Editor.exe!UnknownFunction []
+[2018.11.29-00.30.54:211][133]LogOutputDevice: Error: [Callstack] 0x00007ff6d8355aaa UE4Editor.exe!UnknownFunction []
+[2018.11.29-00.30.54:211][133]LogOutputDevice: Error: [Callstack] 0x00007ff931033034 KERNEL32.DLL!UnknownFunction []
+[2018.11.29-00.30.54:211][133]LogOutputDevice: Error: [Callstack] 0x00007ff932e41471 ntdll.dll!UnknownFunction []
+[2018.11.29-00.30.54:211][133]LogOutputDevice: Error: 
+[2018.11.29-00.30.54:225][133]LogStats:                SubmitErrorReport -  0.004 s
+[2018.11.29-00.31.02:055][133]LogStats:                    SendNewReport -  7.831 s
+[2018.11.29-00.31.02:055][133]LogStats:             FDebug::EnsureFailed -  9.488 s
+[2018.11.29-00.31.02:055][133]LogUObjectBase: Warning: Object is not registered
+[2018.11.29-00.31.03:080][137]LogUObjectBase: Warning: Object is not registered
+[2018.11.29-00.31.05:221][266]LogSavePackage: Moving '../../../../../../Users/fox56/Documents/PeopleWithGuns/Saved/AnimationTestMap_Auto1EA0686484C506AE594986EA8CFD45394.tmp' to '../../../../../../Users/fox56/Documents/PeopleWithGuns/Saved/Autosaves/Game/ParagonWraith/Characters/Heroes/Wraith/AnimationTestMap_Auto1.umap'
+[2018.11.29-00.31.05:225][266]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ParagonWraith/Characters/Heroes/Wraith/AnimationTestMap' took 0.115
+[2018.11.29-00.31.05:225][266]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.115
+[2018.11.29-00.31.05:226][266]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonWraith/Characters/Heroes/Wraith/WraithPlayerCharacter] ([1] browsable assets)...
+[2018.11.29-00.31.05:237][266]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ParagonWraith/Characters/Heroes/Wraith/WraithPlayerCharacter.WraithPlayerCharacter]
+[2018.11.29-00.31.05:237][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonWraith/Characters/Heroes/Wraith/WraithPlayerCharacter]
+[2018.11.29-00.31.05:358][266]LogSavePackage: Moving '../../../../../../Users/fox56/Documents/PeopleWithGuns/Saved/WraithPlayerCharacter_Auto14F847434456490AB1ECE83B19DE62C71.tmp' to '../../../../../../Users/fox56/Documents/PeopleWithGuns/Saved/Autosaves/Game/ParagonWraith/Characters/Heroes/Wraith/WraithPlayerCharacter_Auto1.uasset'
+[2018.11.29-00.31.05:359][266]LogFileHelpers: Auto-saving content packages took 0.133
+[2018.11.29-00.32.02:077][ 87]BlueprintLog: New page: Compile Wraith_AnimBlueprint
+[2018.11.29-00.32.02:158][ 87]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.32.02:158][ 87]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.32.03:427][172]LogSlate: Window 'Idle_Combat_LMB' being destroyed
+[2018.11.29-00.32.03:430][172]LogSlate: Window 'Idle_Combat_LMB' being destroyed
+[2018.11.29-00.32.06:388][473]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ParagonWraith/Characters/Heroes/Wraith/WraithPlayerCharacter.WraithPlayerCharacter
+[2018.11.29-00.32.06:693][473]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.32.08:036][562]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.32.34:175][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-00.32.34:262][922]BlueprintLog: New page: Compile WraithPlayerCharacter
+[2018.11.29-00.32.34:300][922]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.32.34:302][922]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.32.34:303][922]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.32.34:305][922]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.32.34:305][922]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.32.34:307][922]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.32.34:477][922]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.32.34:478][922]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.32.34:479][922]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.32.34:480][922]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.32.34:495][922]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.32.34:496][922]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.32.34:497][922]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.32.34:535][922]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.32.35:479][  0]LogSlate: Window 'WraithPlayerCharacter*' being destroyed
+[2018.11.29-00.32.35:481][  0]LogSlate: Window 'WraithPlayerCharacter*' being destroyed
+[2018.11.29-00.32.36:478][110]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.29-00.32.36:496][110]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.29-00.32.36:496][110]PIE: New page: PIE session: AnimationTestMap (29 nov. 2018 02:32:36)
+[2018.11.29-00.32.36:496][110]LogPlayLevel: Creating play world package: /Game/ParagonWraith/Characters/Heroes/Wraith/UEDPIE_0_AnimationTestMap
+[2018.11.29-00.32.36:498][110]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002310s)
+[2018.11.29-00.32.36:499][110]LogAIModule: Creating AISystem for world AnimationTestMap
+[2018.11.29-00.32.36:499][110]LogPlayLevel: PIE: World Init took: (0.000743s)
+[2018.11.29-00.32.36:499][110]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ParagonWraith/Characters/Heroes/Wraith/AnimationTestMap.AnimationTestMap to /Game/ParagonWraith/Characters/Heroes/Wraith/UEDPIE_0_AnimationTestMap.AnimationTestMap (0.003192s)
+[2018.11.29-00.32.36:537][110]LogInit: XAudio2 using 'Casque pour téléphone (Corsair VOID PRO Surround USB Adapter)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.11.29-00.32.36:664][110]LogInit: FAudioDevice initialized.
+[2018.11.29-00.32.36:693][110]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.29-00.32.36:695][110]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.Wraith_AnimBlueprint_C:ExecuteUbergraph_Wraith_AnimBlueprint
+
+[2018.11.29-00.32.36:695][110]LogWorld: Bringing World /Game/ParagonWraith/Characters/Heroes/Wraith/UEDPIE_0_AnimationTestMap.AnimationTestMap up for play (max tick rate 0) at 2018.11.29-01.32.36
+[2018.11.29-00.32.36:696][110]LogWorld: Bringing up level for play took: 0.001548
+[2018.11.29-00.32.36:709][110]PIE: Play in editor start time for /Game/ParagonWraith/Characters/Heroes/Wraith/UEDPIE_0_AnimationTestMap -0,375
+[2018.11.29-00.32.38:829][361]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonWraith/Characters/Heroes/Wraith/Animations/LevelStart_Montage.LevelStart_Montage'
+[2018.11.29-00.33.46:226][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-00.33.46:258][434]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.29-00.33.46:291][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-00.33.46:330][437]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2018.11.29-00.33.51:049][991]LogEditorViewport: Clicking on Actor (LMB): WraithPlayerCharacter_C (ThirdPersonCharacter)
+[2018.11.29-00.33.51:930][ 75]LogEditorViewport: Clicking on Actor (LMB): WraithPlayerCharacter_C (ThirdPersonCharacter)
+[2018.11.29-00.33.53:448][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-00.33.54:706][252]LogSlate: Window 'Save Content' being destroyed
+[2018.11.29-00.33.54:976][252]LogSavePackage: Moving '../../../../../../Users/fox56/Documents/PeopleWithGuns/Saved/AnimationTestMap04727F414B4CD7E168B7CDB87E34800F.tmp' to '../../../../../../Users/fox56/Documents/PeopleWithGuns/Content/ParagonWraith/Characters/Heroes/Wraith/AnimationTestMap.umap'
+[2018.11.29-00.33.55:029][252]LogFileHelpers: Saving map 'AnimationTestMap' took 0.300
+[2018.11.29-00.33.55:213][252]LogSavePackage: Moving '../../../../../../Users/fox56/Documents/PeopleWithGuns/Saved/Wraith_AnimBlueprint79277B6E48BB6379BF2253A1AF302B15.tmp' to '../../../../../../Users/fox56/Documents/PeopleWithGuns/Content/ParagonWraith/Characters/Heroes/Wraith/Wraith_AnimBlueprint.uasset'
+[2018.11.29-00.33.55:360][252]LogSavePackage: Moving '../../../../../../Users/fox56/Documents/PeopleWithGuns/Saved/WraithPlayerCharacter360AB7374AE40F34ED453F943B707860.tmp' to '../../../../../../Users/fox56/Documents/PeopleWithGuns/Content/ParagonWraith/Characters/Heroes/Wraith/WraithPlayerCharacter.uasset'
+[2018.11.29-00.33.55:492][252]LogSlate: Window 'PeopleWithGuns - Unreal Editor' being destroyed
+[2018.11.29-00.33.55:711][253]Cmd: QUIT_EDITOR
+[2018.11.29-00.33.56:241][253]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.29-00.33.56:253][253]LogExit: Preparing to exit.
+[2018.11.29-00.33.56:730][253]LogExit: Editor shut down
+[2018.11.29-00.33.56:730][253]LogExit: Transaction tracking system shut down
+[2018.11.29-00.33.57:383][253]LogExit: Object subsystem successfully closed.
+[2018.11.29-00.33.57:407][253]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.11.29-00.33.57:411][253]LogD3D11RHI: Shutdown
+[2018.11.29-00.33.57:411][253]LogD3D11RHI: CleanupD3DDevice
+[2018.11.29-00.33.57:431][253]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.11.29-00.33.57:460][253]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (626)
+[2018.11.29-00.33.57:460][253]LogModuleManager: Shutting down and abandoning module Voice (624)
+[2018.11.29-00.33.57:474][253]LogModuleManager: Shutting down and abandoning module AnimationEditor (622)
+[2018.11.29-00.33.57:474][253]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (620)
+[2018.11.29-00.33.57:474][253]LogModuleManager: Shutting down and abandoning module BlueprintGraph (618)
+[2018.11.29-00.33.57:474][253]LogModuleManager: Shutting down and abandoning module PinnedCommandList (616)
+[2018.11.29-00.33.57:475][253]LogModuleManager: Shutting down and abandoning module SkeletonEditor (614)
+[2018.11.29-00.33.57:475][253]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (612)
+[2018.11.29-00.33.57:475][253]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.11.29-00.33.57:475][253]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.11.29-00.33.57:475][253]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.11.29-00.33.57:477][253]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.11.29-00.33.57:477][253]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.11.29-00.33.57:477][253]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.11.29-00.33.57:477][253]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.11.29-00.33.57:477][253]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.11.29-00.33.57:477][253]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.11.29-00.33.57:477][253]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.11.29-00.33.57:477][253]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.11.29-00.33.57:477][253]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.11.29-00.33.57:477][253]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.11.29-00.33.57:477][253]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.11.29-00.33.57:477][253]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.11.29-00.33.57:477][253]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.11.29-00.33.57:477][253]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.11.29-00.33.57:477][253]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.11.29-00.33.57:478][253]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.11.29-00.33.57:664][253]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.11.29-00.33.57:664][253]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.11.29-00.33.57:664][253]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.11.29-00.33.57:664][253]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.11.29-00.33.57:664][253]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.11.29-00.33.57:664][253]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.11.29-00.33.57:664][253]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.11.29-00.33.57:664][253]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.11.29-00.33.57:664][253]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.11.29-00.33.57:664][253]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.11.29-00.33.57:664][253]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.11.29-00.33.57:664][253]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.11.29-00.33.57:664][253]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.11.29-00.33.57:664][253]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.11.29-00.33.57:664][253]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.11.29-00.33.57:664][253]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.11.29-00.33.57:664][253]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.11.29-00.33.57:664][253]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.11.29-00.33.57:664][253]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.11.29-00.33.57:665][253]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.11.29-00.33.57:665][253]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.11.29-00.33.57:665][253]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.11.29-00.33.57:720][253]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.11.29-00.33.57:720][253]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.11.29-00.33.57:720][253]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.11.29-00.33.57:720][253]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.11.29-00.33.57:720][253]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.11.29-00.33.57:720][253]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.11.29-00.33.57:722][253]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.11.29-00.33.57:722][253]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.11.29-00.33.57:722][253]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.11.29-00.33.57:722][253]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.11.29-00.33.57:726][253]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.11.29-00.33.57:726][253]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.11.29-00.33.57:726][253]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.11.29-00.33.57:726][253]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.11.29-00.33.57:726][253]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.11.29-00.33.57:726][253]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.11.29-00.33.57:726][253]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.11.29-00.33.57:726][253]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.11.29-00.33.57:726][253]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.11.29-00.33.57:726][253]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.11.29-00.33.57:726][253]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.11.29-00.33.57:726][253]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.11.29-00.33.57:726][253]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.11.29-00.33.57:726][253]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.11.29-00.33.57:726][253]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.11.29-00.33.57:726][253]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.11.29-00.33.57:726][253]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.11.29-00.33.57:726][253]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.11.29-00.33.57:726][253]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.11.29-00.33.57:727][253]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.11.29-00.33.57:727][253]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.11.29-00.33.57:727][253]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.11.29-00.33.57:933][253]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.11.29-00.33.57:933][253]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.11.29-00.33.57:933][253]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.11.29-00.33.57:933][253]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.11.29-00.33.57:933][253]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.11.29-00.33.57:933][253]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.11.29-00.33.57:933][253]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.11.29-00.33.57:933][253]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.11.29-00.33.57:933][253]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.11.29-00.33.57:933][253]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.11.29-00.33.57:933][253]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.11.29-00.33.57:933][253]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.11.29-00.33.57:933][253]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.11.29-00.33.57:933][253]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.11.29-00.33.57:934][253]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.11.29-00.33.57:934][253]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.11.29-00.33.57:934][253]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.11.29-00.33.57:934][253]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.11.29-00.33.57:936][253]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.11.29-00.33.57:937][253]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.11.29-00.33.57:937][253]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.11.29-00.33.57:937][253]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.11.29-00.33.57:937][253]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.11.29-00.33.57:937][253]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.11.29-00.33.57:937][253]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.11.29-00.33.57:937][253]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.11.29-00.33.57:937][253]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.11.29-00.33.57:937][253]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.11.29-00.33.57:937][253]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.11.29-00.33.57:937][253]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.11.29-00.33.57:938][253]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.11.29-00.33.57:938][253]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.11.29-00.33.57:938][253]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.11.29-00.33.57:938][253]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.11.29-00.33.57:938][253]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.11.29-00.33.57:939][253]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.11.29-00.33.57:939][253]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.11.29-00.33.57:939][253]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.11.29-00.33.57:939][253]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.11.29-00.33.57:939][253]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.11.29-00.33.57:939][253]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.11.29-00.33.57:939][253]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.11.29-00.33.57:939][253]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.11.29-00.33.57:939][253]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.11.29-00.33.57:939][253]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.11.29-00.33.57:939][253]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.11.29-00.33.57:939][253]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.11.29-00.33.57:939][253]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.11.29-00.33.57:939][253]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.11.29-00.33.57:939][253]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.11.29-00.33.57:939][253]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.11.29-00.33.57:939][253]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.11.29-00.33.57:939][253]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.11.29-00.33.57:939][253]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.11.29-00.33.57:939][253]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.11.29-00.33.57:939][253]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.11.29-00.33.57:939][253]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.11.29-00.33.57:939][253]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.11.29-00.33.57:939][253]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.11.29-00.33.58:040][253]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.11.29-00.33.58:141][253]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.11.29-00.33.58:141][253]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.11.29-00.33.58:141][253]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.11.29-00.33.58:141][253]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.11.29-00.33.58:141][253]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.11.29-00.33.58:141][253]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.11.29-00.33.58:141][253]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.11.29-00.33.58:142][253]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.11.29-00.33.58:142][253]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.11.29-00.33.58:142][253]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.11.29-00.33.58:142][253]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.11.29-00.33.58:142][253]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.11.29-00.33.58:143][253]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.11.29-00.33.58:143][253]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.11.29-00.33.58:143][253]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.11.29-00.33.58:143][253]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.11.29-00.33.58:143][253]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.11.29-00.33.58:143][253]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.11.29-00.33.58:145][253]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.11.29-00.33.58:151][253]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.11.29-00.33.58:151][253]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.11.29-00.33.58:151][253]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.11.29-00.33.58:151][253]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.11.29-00.33.58:151][253]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.11.29-00.33.58:151][253]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.11.29-00.33.58:151][253]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.11.29-00.33.58:151][253]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.11.29-00.33.58:151][253]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.11.29-00.33.58:151][253]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.11.29-00.33.58:151][253]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.11.29-00.33.58:151][253]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.11.29-00.33.58:151][253]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.11.29-00.33.58:151][253]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.11.29-00.33.58:151][253]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.11.29-00.33.58:151][253]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.11.29-00.33.58:152][253]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.11.29-00.33.58:152][253]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.11.29-00.33.58:152][253]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.11.29-00.33.58:152][253]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.11.29-00.33.58:155][253]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.11.29-00.33.58:155][253]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.11.29-00.33.58:156][253]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.11.29-00.33.58:156][253]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.11.29-00.33.58:156][253]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.11.29-00.33.58:156][253]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.11.29-00.33.58:156][253]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.11.29-00.33.58:156][253]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.11.29-00.33.58:156][253]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.11.29-00.33.58:156][253]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.11.29-00.33.58:156][253]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.11.29-00.33.58:156][253]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.11.29-00.33.58:156][253]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.11.29-00.33.58:156][253]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.11.29-00.33.58:156][253]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.11.29-00.33.58:156][253]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.11.29-00.33.58:156][253]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.11.29-00.33.58:156][253]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.11.29-00.33.58:196][253]LogDerivedDataCache: Shutdown
+[2018.11.29-00.33.58:196][253]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.11.29-00.33.58:196][253]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.11.29-00.33.58:196][253]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.11.29-00.33.58:196][253]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.11.29-00.33.58:196][253]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.11.29-00.33.58:196][253]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.11.29-00.33.58:196][253]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.11.29-00.33.58:196][253]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.11.29-00.33.58:196][253]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.11.29-00.33.58:196][253]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.11.29-00.33.58:196][253]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.11.29-00.33.58:197][253]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.11.29-00.33.58:197][253]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.11.29-00.33.58:197][253]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.11.29-00.33.58:197][253]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.11.29-00.33.58:197][253]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.11.29-00.33.58:197][253]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.11.29-00.33.58:197][253]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.11.29-00.33.58:197][253]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.11.29-00.33.58:197][253]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.11.29-00.33.58:197][253]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.11.29-00.33.58:197][253]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.11.29-00.33.58:197][253]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.11.29-00.33.58:197][253]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.11.29-00.33.58:197][253]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.11.29-00.33.58:198][253]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.11.29-00.33.58:198][253]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.11.29-00.33.58:203][253]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.11.29-00.33.58:203][253]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.11.29-00.33.58:203][253]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.11.29-00.33.58:203][253]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.11.29-00.33.58:203][253]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.11.29-00.33.58:203][253]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.11.29-00.33.58:203][253]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.11.29-00.33.58:203][253]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.11.29-00.33.58:203][253]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.11.29-00.33.58:203][253]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.11.29-00.33.58:203][253]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.11.29-00.33.58:203][253]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.11.29-00.33.58:203][253]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.11.29-00.33.58:203][253]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.11.29-00.33.58:203][253]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.11.29-00.33.58:203][253]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.11.29-00.33.58:204][253]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.11.29-00.33.58:204][253]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.11.29-00.33.58:205][253]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.11.29-00.33.58:205][253]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.11.29-00.33.58:231][253]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.11.29-00.33.58:232][253]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.11.29-00.33.58:232][253]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC4FCF175-421C-116F-6412-9A9629689F70%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=ef7d3e5243b422bdb3e40685b0484be6%7Ce13323db472b437e907144303bb07345%7Ced5ede0c-5b4e-4ea3-a6ef-8328b47ebf76&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.11.29-00.33.58:254][253]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.11.29-00.33.58:255][253]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.11.29-00.33.58:256][253]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.11.29-00.33.58:256][253]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.11.29-00.33.58:256][253]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.11.29-00.33.58:256][253]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.11.29-00.33.58:256][253]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.11.29-00.33.58:256][253]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.11.29-00.33.58:256][253]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.11.29-00.33.58:256][253]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.11.29-00.33.58:256][253]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.11.29-00.33.58:256][253]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.11.29-00.33.58:256][253]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.11.29-00.33.58:256][253]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.11.29-00.33.58:256][253]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.11.29-00.33.58:256][253]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.11.29-00.33.58:256][253]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.11.29-00.33.58:256][253]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.11.29-00.33.58:256][253]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.11.29-00.33.58:257][253]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.11.29-00.33.58:257][253]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.11.29-00.33.58:257][253]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.11.29-00.33.58:257][253]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.11.29-00.33.58:257][253]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.11.29-00.33.58:257][253]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.11.29-00.33.58:257][253]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.11.29-00.33.58:257][253]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.11.29-00.33.58:257][253]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.11.29-00.33.58:257][253]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.11.29-00.33.58:257][253]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.11.29-00.33.58:261][253]LogExit: Exiting.
+[2018.11.29-00.33.58:279][253]Log file closed, 11/29/18 01:33:58
